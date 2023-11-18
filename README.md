@@ -1,16 +1,18 @@
-### Hi there 👋
+# Witaj na moim profilu! 🚀
 
-<!--
-**Yeetoo45/Yeetoo45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cześć, jestem entuzjastą informatyki i pasjonatem technologii. Moja przygoda z kodowaniem rozpoczęła się od fascynacji informatyką. 
 
-Here are some ideas to get you started:
+## O mnie
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 Obecnie pracuję nad rozwijaniem moich umiejętności programistycznych, skupiając się na:
+- Rozwoju oprogramowania
+- Rozwoju umiejętności związanych ze sztuczną inteligencją
+
+💡 Wierzę w potęgę technologii do rozwiązywania rzeczywistych problemów i tworzenia pozytywnego wpływu na świat.
+
+## Moje Umiejętności
+
+- **Języki Programowania:** Python, JavaScript
+- **Frameworki:** Django, React
+- **Bazy Danych:** MySQL, MongoDB
+- **Inne:** Git, Docker
