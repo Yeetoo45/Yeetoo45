@@ -16,3 +16,5 @@ Cześć, jestem entuzjastą informatyki i pasjonatem technologii. Moja przygoda 
 - **Frameworki:** Django, React
 - **Bazy Danych:** MySQL, MongoDB
 - **Inne:** Git, Docker
+
+🌐 [Moja Strona](https://yeetoo45.github.io)
