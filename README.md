@@ -16,9 +16,3 @@ Cześć, jestem entuzjastą informatyki i pasjonatem technologii. Moja przygoda 
 - **Frameworki:** Django, React
 - **Bazy Danych:** MySQL, MongoDB
 - **Inne:** Git, Docker
-
-🌐 [Moja Strona](https://yeetoo45.github.io)
-
-Tutaj są linki do repozytorium forka i artykułu na paperswithcode.com:
-- https://paperswithcode.com/paper/computer-generated-music-for-tabletop-role (ten jest do strony)
-- https://github.com/Yeetoo45/adl-piano-midi/tree/master (ten jest do repozytorium)
