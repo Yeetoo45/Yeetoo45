@@ -17,7 +17,7 @@ Repo: Yeetoo45/bipedalwalker_ppo_project2
 ### 🔐 Cybersecurity / IoT
 ESP32 / Wi-Fi / security-related embedded project work.
 
-Repo: Yeetoo45/proj_security
+Repo: Yeetoo45/IOT-security-project
 
 ### 🌐 Portfolio website
 Personal GitHub Pages website.
